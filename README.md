@@ -1,3 +1,3 @@
-# Richdotcom666.github.io
+# MC ETTL io
 # Willkommen auf meiner Webseite!
 Dies ist eine einfache Beispielwebseite mit GitHub Pages.
